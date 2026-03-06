@@ -9,10 +9,13 @@ Go to the Zorin emblem and search for Terminal
 Open Terminal and click in the Terminal
 
 Type the following command after your username@computername:~$ cd Desktop
+
 then hit enter
 
 Type the ls command and hit enter
-then type the following command ./zorin_auto-install_programs_all
+then type the following command 
+./zorin_auto-install_programs_all
+
 then hit enter and it will run.
 
 # CODE : 
